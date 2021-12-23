@@ -2,8 +2,8 @@
 free for anroid and windows
 
 **download**
-[android v.0.0.1](http://download-android.de "android")
-[Windows v.0.0.1](http://download-android.de "android")
+[android v.0.0.1](#)
+[Windows v.0.0.1](#)
 
 
 # Funktionen
