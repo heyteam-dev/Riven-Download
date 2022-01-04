@@ -2,8 +2,9 @@
 free for anroid and windows
 
 **download**
-[android v.0.0.1](#)
-[Windows v.0.0.1](#)
+[android ✘](#)
+[Windows ✘](#)
+[Windows Opara addon 0.0.1 ✓](#)
 
 
 # Funktionen
